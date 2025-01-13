@@ -6,7 +6,7 @@
     <h1></h1>
 </div>
 <br>
-<img align="right" src="assets/keyboard.gif" alt="keyboard" width="400px" style="border-radius: 5px; margin-left: 20px;"/>
+<img align="right" src="assets/keyboard.gif" alt="keyboard" width="400px""/>
 
 - 🔭 I’m currently studying to **become a web developer**.
 
@@ -18,15 +18,47 @@
 
 <br><br>
 
-## 🏆 Goals:
+## 🌐 My Journey:  
 
-- 🚀 Gain experience in developing full-stack applications using **React** and **Node.js**.
-- 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
-- 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
+- 💻 Master **React** and **Next.js** to build highly dynamic and SEO-friendly web applications.  
+- 📊 Learn advanced state management techniques using **Redux** and **Context API**.  
+- 🌍 Understand **RESTful APIs** and explore **GraphQL** for more efficient data fetching.  
+- 🛠️ Gain hands-on experience with **Tailwind CSS** for rapid UI design and development.  
+
+## 🚀 My Goals:  
+
+- 🔍 Dive deeper into **performance optimization techniques** to make websites load faster.  
+- 🌱 Learn and implement **progressive web app (PWA)** features for a better user experience.  
+- 💾 Explore **database technologies** like **MongoDB** and **PostgreSQL** for back-end development.  
+- 🖥️ Build responsive and mobile-first designs using **CSS Grid** and **Flexbox**.  
+
+## 🎨 Web Design & Development:  
+
+- 🖌️ Master modern **UI/UX principles** to design intuitive and beautiful interfaces.  
+- 🌐 Enhance skills in **web accessibility** to ensure inclusivity for all users.  
+- 🚦 Implement robust **error handling** and debugging practices for smoother experiences.  
+- 🛡️ Focus on **web security fundamentals**, including HTTPS, CORS, and content security policies.  
+
+##  
+<br>
+<div align="center">
+<h1>📫 Contact Me</h1> 
+
+Feel free to reach out or check out my profiles!  
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/yourusername)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourusername)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yourname@example.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://yourportfolio.com)
+</div>
+
+
+
 <details>
     <summary><b>🏆 Github Trophies</b></summary>
     <br>
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=yamadaMk12&theme=discord" alt="MelvinAguilar" />
+        <img src="https://github-profile-trophy.vercel.app/?username=yamadaMk12&theme=discord" alt="yamadaMk12" />
     </p>
 </details>
