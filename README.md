@@ -6,24 +6,15 @@
     <h1></h1>
 </div>
 <br>
-<img align="right" src="assets/keyboard.gif" alt="keyboard"/>
+<img align="right" src="assets/keyboard.gif" alt="keyboard" width="400px"/>
 
 - 🔭 I’m currently studying to **become a web developer**.
 
-
 - 🌱 I'm diving deep into competitive coding platforms to sharpen my algorithm analysis skills, primarily using **Python** and **JavaScript**.
-
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/yamadaMk12)!
 
-
 - 📫 How to reach me: **kite.kun555@gmail.com**.
-
-
-- 👯 I’m looking to collaborate on **developing new open-source projects**.
-
-
-- 🌎 Fluent in **Arabic** 📖 and polishing up my **English** skills every day 🌟
 
 ## 🏆 Goals:
 
