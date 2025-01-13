@@ -6,7 +6,7 @@
     <h1></h1>
 </div>
 <br>
-<img align="right" src="assets/keyboard.gif" alt="keyboard" width="400px"/>
+<img align="right" src="assets/keyboard.gif" alt="keyboard" width="400px" style="border-radius: 5px; margin-left: 20px;"/>
 
 - 🔭 I’m currently studying to **become a web developer**.
 
