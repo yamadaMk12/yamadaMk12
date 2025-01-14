@@ -102,6 +102,11 @@ Feel free to reach out or check out my profiles!
 </details>
 
 </div>
+
+<br>
+
+<h2 align="center">👨‍💻 More About Me on GitHub</h2>
+
 <details>
     <summary><b>🏆 Github Trophies</b></summary>
     <br>
@@ -109,4 +114,22 @@ Feel free to reach out or check out my profiles!
         <img src="https://github-profile-trophy.vercel.app/?username=yamadaMk12&theme=discord" alt="yamadaMk12" />
     </p>
 </details>
+
+<details>
+<summary><b>🔥 Streak Stats</b></summary>
 <br>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=yamadaMk12" alt="GitHub Streak"/>
+</p>
+</details>
+<details>
+<summary><b>⚡ Github Public Stats</b></summary>
+<br>
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yamadaMk12&theme=dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yamadaMk12&theme=dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yamadaMk12&theme=dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yamadaMk12&theme=dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yamadaMk12&theme=dark&utcOffset=8">
+</p>
+</details>
