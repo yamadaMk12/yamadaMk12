@@ -8,6 +8,7 @@
 <br>
 <img align="right" src="assets/keyboard.gif" alt="keyboard" width="400px""/>
 <br>
+
 - 🔭 I’m currently studying to **become a web developer**.
 
 - 🌱 I'm diving deep into competitive coding platforms to sharpen my algorithm analysis skills, primarily using **Python** and **JavaScript**.
