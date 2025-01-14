@@ -54,12 +54,16 @@ Feel free to reach out or check out my profiles!
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://yourportfolio.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/MelvinAguilar)](https://www.frontendmentor.io/profile/yamadaMk12)
 </div>
-<br>
+
 <h2 align="center">📊 Github Stats</h2>
+
 <div align = "center">
-    ![Stats Overview](https://raw.githubusercontent.com/yamadaMk12/github-stats/master/generated/overview.svg)
-    ![Most Used Languages](https://raw.githubusercontent.com/yamadaMk12/github-stats/master/generated/languages.svg)
+
+![Stats Overview](https://raw.githubusercontent.com/yamadaMk12/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/yamadaMk12/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 </div>
+<br>
 <details>
     <summary><b>🏆 Github Trophies</b></summary>
     <br>
