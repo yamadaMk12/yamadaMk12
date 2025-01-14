@@ -7,7 +7,7 @@
 </div>
 <br>
 <img align="right" src="assets/keyboard.gif" alt="keyboard" width="400px""/>
-
+<br>
 - 🔭 I’m currently studying to **become a web developer**.
 
 - 🌱 I'm diving deep into competitive coding platforms to sharpen my algorithm analysis skills, primarily using **Python** and **JavaScript**.
@@ -46,15 +46,19 @@
 
 Feel free to reach out or check out my profiles!  
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/yourusername)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/yamadaMk12)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourusername)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yourname@example.com)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kite.kun555@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Firefox&logoColor=white)](https://yourportfolio.com)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/MelvinAguilar)](https://www.frontendmentor.io/profile/yamadaMk12)
 </div>
-
-
-
+<br>
+<h2 align="center">📊 Github Stats</h2>
+<div align = "center">
+    ![Stats Overview](https://raw.githubusercontent.com/yamadaMk12/github-stats/master/generated/overview.svg)
+    ![Most Used Languages](https://raw.githubusercontent.com/yamadaMk12/github-stats/master/generated/languages.svg)
+</div>
 <details>
     <summary><b>🏆 Github Trophies</b></summary>
     <br>
