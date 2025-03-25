@@ -110,7 +110,7 @@ Feel free to reach out or check out my profiles!
     <summary><b>🏆 Github Trophies</b></summary>
     <br>
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=yamadaMk12&theme=discord" alt="yamadaMk12" />
+        <img src="https://github-profile-trophy.vercel.app/?username=yamadaMk12&theme=onedark" alt="yamadaMk12" />
     </p>
 </details>
 
