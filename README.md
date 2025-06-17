@@ -87,6 +87,7 @@ Feel free to reach out or check out my profiles!
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-8200CE?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 
 </details>
 
