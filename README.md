@@ -120,7 +120,7 @@ Feel free to reach out or check out my profiles!
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=yamadaMk12" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yamadaMk12" alt="GitHub Streak"/>
 </p>
 </details>
 <details>
