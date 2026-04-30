@@ -58,8 +58,10 @@ Feel free to reach out or check out my profiles!
 
 <div align = "center">
 
-![Stats Overview](https://raw.githubusercontent.com/yamadaMk12/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/yamadaMk12/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Stats Overview](https://github.com/yamadaMk12/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![Stats Overview](https://github.com/yamadaMk12/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![Most Used Languages](https://github.com/yamadaMk12/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![Most Used Languages](https://github.com/yamadaMk12/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
 </div>
 <br>
